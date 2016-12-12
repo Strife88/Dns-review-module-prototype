@@ -38,7 +38,7 @@
 }
 .content-box .overview {
     background: url(../img/not_autorized/overview.png) no-repeat;
-    height: 474px;
+    height: 540px;
     
 }
 .content-box .review-spoiler {
@@ -46,8 +46,8 @@
     position: absolute;
     width: 155px;
     height: 45px;
-    top: 430px;
-    right:437px;
+    top: 490px;
+    right:490px;
     z-index: 999;
     border-radius: 5px;
     background: none;
@@ -128,12 +128,12 @@
 }
 
 .btn.dns-shop {
-    left:170px;
+    left:230px;
     width: 120px;
 }
 
 .btn.yandex {
-    left:295px;
+    left:350px;
 }
 
 .autorize {
